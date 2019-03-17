@@ -35,7 +35,6 @@ Alternatively recursive functions could have been used
 ie:
 
 def get_sum(a,b):
-    #good luck!
     if a == b:
         return a
     elif a < b:
